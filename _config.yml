@@ -17,4 +17,4 @@ assets_path: "/assets" # i.e. "/assets"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
-bgtext: "011011010110000101101101011011010110000101101101011010010110000101110010011011110110110001100001"
+bgtext: ""
