@@ -1,15 +1,21 @@
-# Example Site settings
-
-#google_analytics: UA-NNNNNNNN-N
-
-#header_pages:
-#  - index.md
-#  - about.md
-
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
-
-plugins:
-  - jekyll-seo-tag
+## Settings
+title: pRoJEct-NeGYa
+owner: "DeerRIDER"
+url: "https://akiritsu.github.io"
+baseurl: "/pRoJEct-NeGYa"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+email: "akiritsu@outlook.com"
+github: "akiritsu/pRoJEct-NeGYa"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Designed by DeerRIDER, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
