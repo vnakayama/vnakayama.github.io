@@ -11,5 +11,5 @@ encrypted_text: true
 permalink: /
 ---
 
-# NAKASSAURO
+# BLANK PROJECT
 
