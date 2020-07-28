@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interactive Flowchart"
+title:  "Interactive Flowcharts"
 date:   2020-07-03 16:55:45 -0300
 categories: jekyll update
 ---
@@ -8,5 +8,8 @@ categories: jekyll update
 
 * [UFRJ Astronomy][grade-astro]
 
+* [UFRJ Eletronics Engineering] *** UNDER CONSTRUCTION [grade-eel]
+
 [grade-eci]: https://gremio-eci.github.io/grade/
-[grade-astro]:   https://vnakayama.github.io/grade/
+[grade-astro]:   https://vnakayama.github.io/grade_astrofisica/
+[grade-eel]: https://vnakayama.github.io/grade_eletronica/
