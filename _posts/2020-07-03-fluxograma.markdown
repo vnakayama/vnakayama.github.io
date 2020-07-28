@@ -8,7 +8,7 @@ categories: jekyll update
 
 * [UFRJ Astronomy][grade-astro]
 
-* [UFRJ Eletronics Engineering][grade-eel] *** UNDER CONSTRUCTION
+* [UFRJ Eletronics Engineering][grade-eel] * UNDER CONSTRUCTION
 
 [grade-eci]: https://gremio-eci.github.io/grade/
 [grade-astro]:   https://vnakayama.github.io/grade_astrofisica/
