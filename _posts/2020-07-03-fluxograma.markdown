@@ -17,5 +17,5 @@ categories: jekyll update
 
 [grade-eci]: https://gremio-eci.github.io/grade/
 [grade-astrofisica]:   https://vnakayama.github.io/grade_astrofisica/
-[grade-astrocomp]:   https://vnakayama.github.io/grade_comp/
+[grade-astrocomp]:   https://vnakayama.github.io/grade_astrocomp/
 [grade-eel]: https://vnakayama.github.io/grade_eletronica/
