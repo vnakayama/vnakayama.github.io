@@ -11,7 +11,11 @@ categories: jekyll update
 
 * [Astronomia: Ênfase em Astronomia Computacional][grade-astrocomp]
 
+* [Geologia] [grade-geo]
+
 * [Engenharia de Computação e Informação][grade-eci]  
+
+* [Engenharia de Controle e Automação] [grade-controle]
 
 * [Engenharia Eletrônica e de Computação][grade-eel]
 
@@ -19,3 +23,5 @@ categories: jekyll update
 [grade-astrofisica]:   https://vnakayama.github.io/grade_astrofisica/
 [grade-astrocomp]:   https://vnakayama.github.io/grade_astrocomp/
 [grade-eel]: https://vnakayama.github.io/grade_eletronica/
+[grade-geo]: https://vnakayama.github.io/grade_geologia/
+[grade-controle]: https://vnakayama.github.io/grade_controle/
