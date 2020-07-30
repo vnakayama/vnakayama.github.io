@@ -11,11 +11,11 @@ categories: jekyll update
 
 * [Astronomia: Ênfase em Astronomia Computacional][grade-astrocomp]
 
-* [Geologia] [grade-geo]
+* [Geologia][grade-geo]
 
 * [Engenharia de Computação e Informação][grade-eci]  
 
-* [Engenharia de Controle e Automação] [grade-controle]
+* [Engenharia de Controle e Automação][grade-controle]
 
 * [Engenharia Eletrônica e de Computação][grade-eel]
 
