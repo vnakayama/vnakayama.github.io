@@ -13,7 +13,7 @@ categories: jekyll update
 
 * [Engenharia de Computação e Informação][grade-eci]  
 
-* [Engenharia de Computação e Informação][grade-eel]
+* [Engenharia Eletrônica e de Computação][grade-eel]
 
 [grade-eci]: https://gremio-eci.github.io/grade/
 [grade-astrofisica]:   https://vnakayama.github.io/grade_astrofisica/
