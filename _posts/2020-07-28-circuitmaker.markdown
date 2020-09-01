@@ -20,12 +20,15 @@ Siga os passos do instalador, selecionando a versão **Standard**. A chave de at
 ```
 A instalação completa pode demorar vários minutos, então não estranhe a demora.
 ### Rodando pela linha de comando
+Sempre que desejar rodar o simulador, é necessário rodar o seguinte código no terminal:
 ```
+source ~/.bashrc
 circuitmaker
 ```
 Caso não queira abrir o simulador pela linha de comando todas as vezes, siga o passo a passo abaixo para criar um aplicativo executável.
 ### Criando o executável (Em construção)
 Baixe o WineBottler [aqui][winebottler].
+* O WineBottler não funcionou na minha máquina, assim que voltar concluo o tutorial.
 ## Linux (Em construção)
 
 [download]: https://drive.google.com/file/d/1gIWiCRRrABUL2n3EeoBzjJDkgWVioMGZ/view?usp=sharing
