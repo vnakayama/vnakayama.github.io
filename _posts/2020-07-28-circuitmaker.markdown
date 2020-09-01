@@ -28,5 +28,5 @@ Caso não queira abrir o simulador pela linha de comando todas as vezes, siga o 
 Baixe o WineBottler [aqui][winebottler].
 ## Linux (Em construção)
 
-[download]: https://drive.google.com/file/d/1rJwnA_QzMOIF6gkhC0ML7ncdvbS7ArnK/view?usp=sharing
+[download]: https://drive.google.com/file/d/1gIWiCRRrABUL2n3EeoBzjJDkgWVioMGZ/view?usp=sharing
 [winebottler]: https://winebottler.kronenberg.org/
