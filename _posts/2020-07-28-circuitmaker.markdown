@@ -14,15 +14,14 @@ Abra o aplicativo Terminal. Caso você não saiba onde achá-lo, utilize a lupa 
 cd ~/Downloads/CircuitMaker\ 2000/
 sh circuitmaker2000_macOS.sh
 ```
-Siga os passos do instalador, selecionando a versão **Standard**. A chave de ativação é:
+Siga os passos do instalador, selecionando a versão **Standard** e as outras opções padrão. A chave de ativação é:
 ```
 5axx-wcdj-qyba-c92n
 ```
 A instalação completa pode demorar vários minutos, então não estranhe a demora.
 ### Rodando pela linha de comando
-Sempre que desejar rodar o simulador, é necessário rodar o seguinte código no terminal:
+Sempre que desejar rodar o simulador, é necessário rodar o atalho pelo terminal:
 ```
-source ~/.bashrc
 circuitmaker
 ```
 Caso não queira abrir o simulador pela linha de comando todas as vezes, siga o passo a passo abaixo para criar um aplicativo executável.
