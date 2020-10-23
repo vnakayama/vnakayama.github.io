@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 
 ## Links Úteis
-Prática de kana: [Kana Pro][kana] 
-Prática e aprendizado de kanji: [WaniKani][wani] 
-Prática de gramática: [Bunpro][bun] 
+Prática de kana: [Kana Pro][kana] <br/>
+Prática e aprendizado de kanji: [WaniKani][wani] <br/>
+Prática de gramática: [Bunpro][bun] <br/>
 
 [kana]: https://kana.pro/
 [wani]: https://www.wanikani.com/
