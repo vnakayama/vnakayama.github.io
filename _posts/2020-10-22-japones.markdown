@@ -8,9 +8,12 @@ categories: jekyll update
 ## Links Úteis
 Prática de kana: [Kana Pro][kana] <br/>
 Prática e aprendizado de kanji: [WaniKani][wani] <br/>
-Prática de gramática: [Bunpro][bun] <br/>
+Prática de gramática: [Bunpro][bun] <br/><br/>
+
+Curso Online Gratuito [*Marugoto **A1***][marugoto] em Português
 
 [kana]: https://kana.pro/
 [wani]: https://www.wanikani.com/
 [bun]: https://www.bunpro.jp/
+[marugoto]: https://www.marugoto.org/en/news/2020/#nw1014_2
 
