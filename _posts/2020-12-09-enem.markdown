@@ -1,6 +1,0 @@
----
-layout: post
-title:  "Quantos dias pro Enem?"
-date:   2020-12-09 16:55:45 -0300
-categories: jekyll update
----
